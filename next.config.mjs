@@ -7,4 +7,3 @@ const nextConfig = {
 };
 
 export default nextConfig;
-https://stackblitz.com/storage/blobs/eyJfcmFpbHMiOnsiZGF0YSI6MTYyNDIyNDI3LCJwdXIiOiJibG9iX2lkIn19--74cf11cf1edf2438d9b450e7212124fc4eda5b51/next.config.mjs
